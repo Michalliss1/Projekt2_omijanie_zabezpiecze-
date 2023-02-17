@@ -1,1 +1,1 @@
-# Projekt2 omijanie zabezpiecze
+# Projekt2 omijanie zabezpiecze. Software Development Academy
